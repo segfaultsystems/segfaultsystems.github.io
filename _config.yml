@@ -1,31 +1,29 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title:          Segfault Systems
+description:    Securing the Foundations of Scalable Systems
+baseurl:        "" #name of GitHub repository
+url:            #custom url to be used instead of GitHub repository
+email:          #
 
-baseurl: / #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
-email: #
 
-
-highlighter: rouge
-markdown: kramdown
-
+highlighter:    rouge
+markdown:       kramdown
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+paginate:       4
+permalink:      /blog/:year/:title/
+paginate_path:  /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+# facebook:       "#"
+twitter:        "SegfaultSystems"
+linkedin:       "segfault-systems"
+github:         "segfaultsystems"
+# researchgate:   "#"
+# orcid:          "#"
 
-highlighter: rouge
-markdown: kramdown
+highlighter:    rouge
+markdown:       kramdown
 
 # Tracker
 analytics:
