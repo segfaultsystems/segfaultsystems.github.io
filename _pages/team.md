@@ -6,7 +6,7 @@ published: true
 ---
 
 Segfault Systems is a deep tech startup founded in Chennai, India in early 2019
-by pioneers in programming languages and systems from the [University of
+by experts in programming languages and systems from the [University of
 Cambridge Computer Lab](https://www.cst.cam.ac.uk/) and [IIT
 Madras](https://www.cse.iitm.ac.in/). 
 
