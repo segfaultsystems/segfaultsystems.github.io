@@ -6,19 +6,22 @@ published: true
 
 ## Runtime Systems Engineer
 
-The Multicore OCaml project aims to add native support for scalable concurrency
-and shared memory parallelism to the OCaml programming language. At its core,
-Multicore OCaml extends OCaml with effect handlers for expressing scalable
-concurrency, and a high-performance concurrent garbage collector aimed at
-responsive networked applications. Multicore OCaml is also the first
-industrial-strength language to be equipped with an efficient yet modular memory
-model, allowing high-level local program reasoning while retaining performance.
-Multicore OCaml is actively being developed and core features are being
-upstreamed to OCaml.
+The [Multicore OCaml](https://github.com/ocaml-multicore) project aims to bring
+native support for scalable concurrency and shared memory parallelism to the
+OCaml programming language. At its core, Multicore OCaml extends OCaml with
+[effect handlers](https://arxiv.org/abs/2104.00250) for expressing scalable
+concurrency, and a [high-performance concurrent garbage
+collector](https://arxiv.org/abs/2004.11663) aimed at responsive networked
+applications. Multicore OCaml is also the first industrial-strength language to
+be equipped with [an efficient yet modular memory
+model](https://kcsrk.info/papers/pldi18-memory.pdf), allowing high-level local
+program reasoning while retaining performance. Multicore OCaml is actively being
+developed and core features are being [upstreamed to
+OCaml](https://github.com/ocaml/ocaml/pulls?q=label%3Amulticore-prerequisite+).
 
 ## Qualifications & Experience
 
-We are looking for an experienced (3y+) systems engineer to join our team.
+We are looking for an experienced (3Y+) systems engineer to join our team.
 Ideally, you will have:
 
 * Excellent knowledge of C programming, parallel programming and Operating
