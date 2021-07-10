@@ -7,6 +7,7 @@ published: true
 ## Current openings
 
 * [Runtime Systems Engineer (India, Remote)](runtime_systems_engineer.html)
+* [Compiler Reliability Engineer (India, Remote)](compiler_reliability_engineer.html)
 
 We offer
 
