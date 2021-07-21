@@ -34,14 +34,14 @@ number of tools to assist with the task at hand. Some of the tools are:
 * [Multicore OCurrent CI](https://multicore.ci.ocamllabs.io:8100/) tests a
   matrix of blessed packages that the multicore team considers important for the
   ecosystem. Unlike OPAM health check, the packages and the compiler variants
-  may be unreleased and part of other development branches in Github. This tool
+  may be unreleased and part of other development branches in GitHub. This tool
   builds the workflow as a dependency graph of individual build tasks. The
   individual tasks will be rebuilt on demand when the corresponding item being
-  tracked (say the branch on Github) is updated. 
+  tracked (say the branch on GitHub) is updated. 
 
 ## Responsibilities
 
-As a compiler reliability engineer, you tasks will include:
+As a compiler reliability engineer, your tasks will include:
 
 * Investigating failures thrown up by OPAM Health Check monitoring and deeper
   package testsuite runs with multicore. Determine if the issue is a problem for
