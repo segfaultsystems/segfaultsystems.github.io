@@ -8,6 +8,7 @@ published: true
 
 * [Runtime Systems Engineer (India, Remote)](runtime_systems_engineer.html)
 * [Compiler Reliability Engineer (India, Remote)](compiler_reliability_engineer.html)
+* [Multicore Application Engineer (India, Remote)](multicore_application_engineer.html)
 
 We offer
 
