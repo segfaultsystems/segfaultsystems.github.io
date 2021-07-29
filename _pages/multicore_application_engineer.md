@@ -55,7 +55,8 @@ using the Multicore OCaml compiler. Ideally, you will have:
   + Utilise Multicore OCaml parallelism support (such as [Lwt offloading](https://sudha247.github.io/2020/10/01/lwt-multicore/) mechanism)
     to offload compute-intensive tasks such as crypto and serialisation to spare
     cores.
-  + Work with the Irmin/Tezos storage team to add parallelism to storage tasks. 
+  + Work with the [Irmin](https://irmin.org/)/Tezos storage team to add
+    parallelism to storage tasks. 
 * Benchmarking
   + Work with the Tezos developers and Irmin team to identify relevant
     benchmarks. 

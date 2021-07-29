@@ -107,8 +107,17 @@ blockquote {
 }
 
 
-.headline, .post-headline {
+.site-headline {
   font-size: 2.5em;
+  margin-bottom: -0.4em;
+
+  @include media-query($on-palm) {
+    font-size: 2em;
+  }
+}
+
+.headline, .post-headline {
+  font-size: 2em;
   margin-bottom: -0.4em;
 
   @include media-query($on-palm) {
