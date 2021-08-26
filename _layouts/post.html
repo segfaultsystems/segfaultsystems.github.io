@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
-<!-- <h1 class="post-headline">{{page.title}}</h1> -->
+{% if page.title %}
+<h2 class="post-headline">{{page.title}}</h2>
+{% endif %}
+{% if page.authors %}
 <p class="meta">
   <small>
     {{page.authors}} <br/>
     {{page.date | date: '%B %d, %Y'}}
   </small>
 </p>
+{% endif %}
 
 {{content}}
 
