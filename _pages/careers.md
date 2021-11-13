@@ -6,7 +6,6 @@ published: true
 
 ## Current openings
 
-* [Compiler Reliability Engineer (India, Remote within India/EU/UK)](compiler_reliability_engineer.html)
 * [Multicore Application Engineer (India, Remote within India/EU/UK)](multicore_application_engineer.html)
 
 We offer
