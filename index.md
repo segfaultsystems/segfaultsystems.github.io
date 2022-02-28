@@ -66,7 +66,7 @@ assessing and tuning the scalability of parallel OCaml programs and ensuring
 that OCaml 5.0 does not introduce performance regressions for existing
 sequential programs compared to OCaml 4. 
 
-<p align="center"> <img width="75%" src="{{ base.url }}/assets/images/scalability.png" /> </p>
+<p align="center"> <img src="{{ base.url }}/assets/images/scalability.png" /> </p>
 <p align="center" style="font-size:75%;"> <i>Scalability of compute intensive OCaml programs from Sandmark nightly</i> </p>
 
 Sandmark is now run as [a nightly service](https://sandmark.ocamllabs.io)
