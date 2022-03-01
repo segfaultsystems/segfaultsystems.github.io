@@ -4,6 +4,9 @@ permalink: /
 published: true
 ---
 
+<p align="center"> <img src="{{ base.url }}/assets/images/paris.jpg" /> </p>
+<p align="center" style="font-size:90%;"> <i>Illustration of Tarides GC hackers waiting for the OCaml testsuite to pass</i> </p>
+
 We are delighted to announce that Segfault Systems is joining
 [Tarides](https://tarides.com/). Segfault has worked closely with Tarides over
 the last couple of years, most notably on the award-winning [Multicore
@@ -67,7 +70,7 @@ that OCaml 5.0 does not introduce performance regressions for existing
 sequential programs compared to OCaml 4. 
 
 <p align="center"> <img src="{{ base.url }}/assets/images/scalability.png" /> </p>
-<p align="center" style="font-size:75%;"> <i>Scalability of compute intensive OCaml programs from Sandmark nightly</i> </p>
+<p align="center" style="font-size:90%;"> <i>Scalability of compute intensive OCaml programs from Sandmark nightly</i> </p>
 
 Sandmark is now run as [a nightly service](https://sandmark.ocamllabs.io)
 monitoring the performance of OCaml 5 as it is being developed. Development will
@@ -92,10 +95,10 @@ applications that you’d like to port to Eio, so we can discuss how the design
 can meet your needs.
 
 <p align="center"> <img src="{{ base.url }}/assets/images/http_load.png" /> </p>
-<p align="center" style="font-size:75%;"> <i>HTTP server performance using 24 cores</i> </p>
+<p align="center" style="font-size:90%;"> <i>HTTP server performance using 24 cores</i> </p>
 
 <p align="center"> <img src="{{ base.url }}/assets/images/http_cores.png" /> </p>
-<p align="center" style="font-size:75%;"> <i>HTTP server scaling maintaining a constant load of 1.5 million requests per second</i> </p>
+<p align="center" style="font-size:90%;"> <i>HTTP server scaling maintaining a constant load of 1.5 million requests per second</i> </p>
 
 ## OCaml Platform
 
