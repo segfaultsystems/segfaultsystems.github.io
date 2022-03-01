@@ -45,6 +45,8 @@ objectives in 2022:
 * Improving developer productivity for OCaml 5.0 by releasing the best platform
   tools
 
-Read the full announcement [here](), including details of our goals and the focus
-for 2022. This alliance brings the headcount of Tarides up to 60+ people, all
-working towards making OCaml the best language for any and every project.
+Read the full announcement
+[here](https://tarides.com/blog/2022-03-01-segfault-systems-joins-tarides),
+including details of our goals and the focus for 2022. This alliance brings the
+headcount of Tarides up to 60+ people, all working towards making OCaml the best
+language for any and every project.
